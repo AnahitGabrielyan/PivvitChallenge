@@ -10,7 +10,7 @@
 
 <body>
     <div id="app">
-        <example-component> </example-component>
+        <donation> </donation>
     </div>
     <script src="./js/app.js"></script>
 </body>
